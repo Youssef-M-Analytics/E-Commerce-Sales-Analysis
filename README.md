@@ -30,9 +30,8 @@ The dashboard tracks the following core metrics:
 * **Regional Performance:** Identifying high-performing vs. low-performing areas.
 
 ## 📂 Project Structure
-* `Data/`: Raw e-commerce dataset.
-* `Dashboard/`: The final interactive Excel file (`.xlsx`).
-* `Screenshots/`: High-resolution images of the dashboard.
+* `Data/`: Contains the raw e-commerce dataset used for analysis.
+* `Dashboard/`: Contains the final interactive Excel Dashboard (.xlsx).
 
 ## 🤝 Acknowledgments
 This is a **Guided Project** inspired by the *Data Tutorials* YouTube channel. I manually implemented every step to strengthen my technical skills in data storytelling and business intelligence.
